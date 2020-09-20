@@ -1,0 +1,1 @@
+const packedInt = 0x0F;
